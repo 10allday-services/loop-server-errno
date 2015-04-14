@@ -1,0 +1,15 @@
+{
+  "name": "loop-server-errno",
+  "description": "The Mozilla Loop (WebRTC App) server error numbers",
+  "version": "1.0.0",
+  "author": "Mozilla (https://mozilla.org/)",
+  "homepage": "https://github.com/mozilla-services/loop-server-errno/",
+  "bugs": "https://bugzilla.mozilla.org/enter_bug.cgi?product=Loop&component=Server",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mozilla-services/loop-server-errno.git"
+  },
+  "main": "index.js",
+  "license": "MPL-2.0",
+  "keywords": []
+}
